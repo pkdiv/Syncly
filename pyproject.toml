@@ -1,0 +1,7 @@
+[project]
+name = "syncly"
+version = "0.1.0"
+description = "A tool to sync file across two locations"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
